@@ -1,0 +1,6 @@
+[submodule "FluentDateTime"]
+	path = FluentDateTime
+	url = https://github.com/FluentDateTime/FluentDateTime.git
+[submodule "library"]
+	path = library
+	url = https://github.com/FluentDateTime/FluentDateTime.git
